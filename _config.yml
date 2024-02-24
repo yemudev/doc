@@ -9,7 +9,7 @@ description: '开发日志'
 keywords:
 author: yemu
 language: zh_ch
-timezone: 'GMT+8'
+timezone:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
