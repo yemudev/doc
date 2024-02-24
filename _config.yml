@@ -8,12 +8,12 @@ subtitle: '笔记'
 description: '开发日志'
 keywords:
 author: yemu
-language: zh_ch
+language: zh_cn
 timezone:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://github.com/yemudev/doc.yemudev.online
+url: http://doc.yemudev.online
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,7 +103,7 @@ theme: landscape
 
 deploy:
   type: 'git'
-  repo: https://github.com/yemudev/doc.yemudev.online
+  repo: https://github.com/yemudev/doc.yemudev.online.git
   branch: pages
 ### github 加速
 service_worker:
